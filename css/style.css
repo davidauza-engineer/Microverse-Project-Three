@@ -3,6 +3,14 @@
   margin-top: 0px;
   display: block;
   height: 100vh;
+  text-align: center;
+ 
+}
+
+h1{
+    vertical-align: middle;
+    text-align: center;
+    line-height: 100vh;   
 }
 
 .second_section {
