@@ -1,5 +1,8 @@
 .intro {
-  padding-top: 45vh;
+  padding-top: 0px;   
+  margin-top: 0px;   
+  display: block;   
+  height: 100vh;
 }
 
 .second_section {
@@ -8,4 +11,12 @@
 
 .third_section {
   padding-top: 45vh;
+}
+
+@media screen and (max-width: 992px)
+{
+    body{
+        background-color: greenyellow;
+        
+    }
 }
