@@ -1,7 +1,7 @@
 .intro {
-  padding-top: 0px;   
-  margin-top: 0px;   
-  display: block;   
+  padding-top: 0px;
+  margin-top: 0px;
+  display: block;
   height: 100vh;
 }
 
@@ -17,6 +17,11 @@
 {
     body{
         background-color: greenyellow;
-        
+
     }
+}
+
+.navigation {
+  position: fixed;
+  top: 0;
 }
